@@ -1,7 +1,7 @@
 {
     "name": "petert82/monolog-logfmt",
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "^7.2",
         "monolog/monolog": "^2.0"
     },
     "description": "A logfmt formatter for Monolog",
